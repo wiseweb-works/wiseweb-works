@@ -1,16 +1,45 @@
-### Hi there 👋
+### Hi there, I'm Abdullah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**wiseweb-works/wiseweb-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wiseweb.works)
+[![Mastodon Badge](https://img.shields.io/badge/mastodon-%2312100E.svg?&style=for-square&logo=mastodon&logoColor=white)](https://fosstodon.org/@wise)
 
-Here are some ideas to get you started:
+### Glad to see you here! &nbsp; 
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wise-web-works&color=55acb7&style=for-the-badge&logo=Github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a web designer and blog writer who supports Wise Web's. I love programming, writing, speaking and traveling.
+
+As a web designer and system security volunteer, I work to make the world a better place. I'm starting this by making the internet a safer place to browse without selling our personal data. I believe that everyone should be able to surf the Internet in a private and secure way, without being tracked, as in 1999. The breakthrough of the previous century was the Wide Web World. The breakthrough of this century will be Wise Web Works.
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="400" height="300" />
+  
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning German language and Java codes;
+- 💬 Ask me about anything, I am happy to help you;
+- 📝 I am happy to support your open source projects as long as they are community friendly;
+- 📫 How to reach me: wisewebworks@outlook.com (GPG 8384AA1B);
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:-->
+
+```text
+Monal        4 days            57.14 %
+Hugo         1 day             14.28 %
+Other        2 days            28.57 %
+```
+
+<!--END_SECTION:-->
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiseweb-works&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
+
+
+
