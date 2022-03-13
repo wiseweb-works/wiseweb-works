@@ -23,17 +23,12 @@ As a web designer and system security volunteer, I work to make the world a bett
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:-->
-
-```text
-Monal        4 days            57.14 %
-Hugo         1 day             14.28 %
-Other        2 days            28.57 %
-```
-
-<!--END_SECTION:-->
-
+📊 **Some of my favorite words:**
+- If I can do the same with less or least, I should do it that way
+- It is more difficult to fool people than to convince them that they have been fooled.
+- Every system is 100% (!) secure if you are fool
+- If you can't explain something simply, you don't understand it.
+- They invented it to use punctuation marks. Not for ignoring.
 
 📈 **My GitHub Stats:**
 
