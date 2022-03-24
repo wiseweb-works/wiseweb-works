@@ -3,6 +3,8 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wiseweb.works)
 [![Mastodon Badge](https://img.shields.io/badge/mastodon-%2312100E.svg?&style=for-square&logo=mastodon&logoColor=white)](https://fosstodon.org/@wise)
 
+<img src="https://github.com/wiseweb-works/wiseweb-works/blob/output/github-snake.gif" width="100%"/>
+
 ### Glad to see you here! &nbsp; 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wise-web-works&color=55acb7&style=for-the-badge&logo=Github)
 
@@ -35,6 +37,5 @@ As a web designer and system security volunteer, I work to make the world a bett
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiseweb-works&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
-
 
 
