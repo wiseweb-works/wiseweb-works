@@ -34,8 +34,7 @@ As a web designer and system security volunteer, I work to make the world a bett
 
 📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiseweb-works&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
+<p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=wiseweb-works&show_icons=true&locale=en" alt="wiseweb-works" /></p>
 
+<p><img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wiseweb-works&" alt="wiseweb-works" /></p>
 
