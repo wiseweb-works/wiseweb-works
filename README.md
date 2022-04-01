@@ -2,7 +2,10 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wiseweb.works)
 [![Mastodon Badge](https://img.shields.io/badge/mastodon-%2312100E.svg?&style=for-square&logo=mastodon&logoColor=white)](https://fosstodon.org/@wise)
-
+<!---
+[![Uptime Monitor Response Badge](https://badgen.net/uptime-robot/response/m791254057-a80ca30fbb65a4615902eea6)](https://stats.uptimerobot.com/4DXZOtz3jV)
+[![Uptime Monitor Month Badge](https://badgen.net/uptime-robot/month/m791254057-a80ca30fbb65a4615902eea6)](https://stats.uptimerobot.com/4DXZOtz3jV)
+-->
 <img src="https://github.com/wiseweb-works/wiseweb-works/blob/output/github-snake.gif" width="100%"/>
 
 ### Glad to see you here! &nbsp; 
