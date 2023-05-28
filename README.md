@@ -5,7 +5,7 @@
 <img src="https://github.com/wiseweb-works/wiseweb-works/blob/output/github-snake.gif" width="100%"/>
 
 ### Glad to see you here! &nbsp; 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wise-web-works&color=55acb7&style=for-the-badge&logo=Github)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwiseweb-works%2Fwiseweb-works&label=VISITORS&labelColor=%234c4c6d&countColor=%231b9c85&style=flat&labelStyle=upper)
 
 I am a web designer and blog writer who supports Wise Web's. I love programming, writing, speaking and traveling.
 
