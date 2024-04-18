@@ -31,18 +31,6 @@ As a web designer and system security volunteer, I work to make the world a bett
 - If you can't explain something simply, you don't understand it.
 - They invented it to use punctuation marks. Not for ignoring.
 
- 🧅**My Tor Relay Stats:**
-| IPv4 | Nickname | ORPort | Country | Uptime |
-|:---:|:---:|:---:|:---:|:---:|
-[130.61.178.131](https://metrics.torproject.org/rs.html#search/130.61.178.131) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks)|  9000  | ![US](https://metrics.torproject.org/images/cc/us.png) | ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m795196091-20099cae474f70d49ca18e61?style=plastic&logo=Tor%20Browser) |
-| [130.61.178.131](https://metrics.torproject.org/rs.html#search/130.61.178.131) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks) | 9100 | ![US](https://metrics.torproject.org/images/cc/us.png) | ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m795196115-23df8e467e09c95892cf1929?style=plastic&logo=Tor%20Browser) |
-| [130.61.178.131](https://metrics.torproject.org/rs.html#search/130.61.178.131) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks) | 9200 | ![US](https://metrics.torproject.org/images/cc/us.png) | ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m795196118-685e6a6decbea3a2a4115072?style=plastic&logo=Tor%20Browser) |
-| [130.61.178.131](https://metrics.torproject.org/rs.html#search/130.61.178.131) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks) | 9300 | ![US](https://metrics.torproject.org/images/cc/us.png) | ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m795196127-e36b68899ce374780467554b?style=plastic&logo=Tor%20Browser) |
-| [130.61.178.131](https://metrics.torproject.org/rs.html#search/130.61.178.131) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks) | 9400 | ![US](https://metrics.torproject.org/images/cc/us.png) | ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m795196128-90f4a4be916f9ae9181b761b?style=plastic&logo=Tor%20Browser) |
-| [130.61.178.131](https://metrics.torproject.org/rs.html#search/130.61.178.131) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks) | 9500 | ![US](https://metrics.torproject.org/images/cc/us.png) | ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m795196131-e5bb1d3cfde9a25d34f9caa6?style=plastic&logo=Tor%20Browser) |
-| [130.61.178.131](https://metrics.torproject.org/rs.html#search/130.61.178.131) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks) | 9600 | ![US](https://metrics.torproject.org/images/cc/us.png) | ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m795196133-10a7e921cff4144a2a2b7869?style=plastic&logo=Tor%20Browser) |
-| [130.61.178.131](https://metrics.torproject.org/rs.html#search/130.61.178.131) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks) | 9700 | ![US](https://metrics.torproject.org/images/cc/us.png) | ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m795196133-10a7e921cff4144a2a2b7869?style=plastic&logo=Tor%20Browser) |
-
 📈 **My GitHub Stats:**
 
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=wiseweb-works&show_icons=true&locale=en" alt="wiseweb-works" /></p>
