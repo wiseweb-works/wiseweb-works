@@ -1,11 +1,12 @@
 ### Hi there, I'm Abdullah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wiseweb-works.github.io/blog/)
-[![Mastodon Badge](https://img.shields.io/badge/mastodon-%2312100E.svg?&style=for-square&logo=mastodon&logoColor=white)](https://fosstodon.org/@wise)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwiseweb-works%2Fwiseweb-works&label=VISITORS&labelColor=%234c4c6d&countColor=%231b9c85&style=flat&labelStyle=upper)
+
 <img src="https://github.com/wiseweb-works/wiseweb-works/blob/output/github-snake.svg" width="100%"/>
 
 ### Glad to see you here! &nbsp; 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwiseweb-works%2Fwiseweb-works&label=VISITORS&labelColor=%234c4c6d&countColor=%231b9c85&style=flat&labelStyle=upper)
+
 
 I am a web designer and blog writer who supports Wise Web's. I love programming, writing, speaking and traveling.
 
@@ -30,6 +31,11 @@ As a web designer and system security volunteer, I work to make the world a bett
 - Every system is 100% (!) secure if you are fool
 - If you can't explain something simply, you don't understand it.
 - They invented it to use punctuation marks. Not for ignoring.
+
+ 🧅**My Tor Relay Stats:**
+| IPv4 | Nickname | ORPort | Country | Bandwidth |
+|:---:|:---:|:---:|:---:|:---:|
+[130.162.220.192](https://metrics.torproject.org/rs.html#search/130.162.220.192) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks)|  9001  | ![US](https://metrics.torproject.org/images/cc/us.png) | 30 MiB/s |
 
 📈 **My GitHub Stats:**
 

@@ -1,3 +1,0 @@
-scribd.com##.text_layer:style(text-shadow: black 0px 0px 0px !important;)
-scribd.com##.promo
-scribd.com##.promo_div
