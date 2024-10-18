@@ -26,20 +26,42 @@ As a web designer and system security volunteer, I work to make the world a bett
 </br>
 
 📊 **Some of my favorite words:**
+
 - If I can do the same with less or least, I should do it that way
 - It is more difficult to fool people than to convince them that they have been fooled.
 - Every system is 100% (!) secure if you are fool
 - If you can't explain something simply, you don't understand it.
 - They invented it to use punctuation marks. Not for ignoring.
 
+</br>
+
+⚡**Regular contributions**
+
+I engage in active participation in projects:
+1) [RSStT Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
+2) [Monal](https://github.com/monal-im/Monal) and also [Monal website](https://github.com/monal-im/monal-im.org)
+3) [Archinstall](https://github.com/archlinux/archinstall) and also [ArchWiki](https://wiki.archlinux.org)
+4) [Simple-X Chat](https://simplex.chat/)
+5) [MicroG](https://microg.org/)
+6) [Discourse](https://www.discourse.org/)
+7) [Mastodon-T-Crossposter](https://github.com/renatolond/mastodon-twitter-poster)
+8) [Cuppa by Nathanatos](https://www.nathanatos.com/)
+9) [Hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+10) [Galette](https://galette.eu/site/)
+11) [Rsyncinator-desktop](https://www.rsyncinator.app/) WIP
+12) Personal repositories to help students of Computer engineering (Informatik [DE]) to example homework assignments.
+
+</br>
+
  🧅**My Tor Relay Stats:**
 | IPv4 | Nickname | ORPort | Country | Bandwidth |
 |:---:|:---:|:---:|:---:|:---:|
 [130.162.220.192](https://metrics.torproject.org/rs.html#search/130.162.220.192) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks)|  9001  | ![US](https://metrics.torproject.org/images/cc/us.png) | 30 MiB/s |
+
+</br>
 
 📈 **My GitHub Stats:**
 
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=wiseweb-works&show_icons=true&locale=en" alt="wiseweb-works" /></p>
 
 <p><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=wiseweb-works&" alt="wiseweb-works" /></p>
-
