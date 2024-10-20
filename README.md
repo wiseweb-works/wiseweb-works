@@ -62,6 +62,4 @@ I engage in active participation in projects:
 
 📈 **My GitHub Stats:**
 
-<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=wiseweb-works&show_icons=true&locale=en" alt="wiseweb-works" /></p>
-
-<p><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=wiseweb-works&" alt="wiseweb-works" /></p>
+<p><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=wiseweb-works&" alt="wiseweb-works" /></p>
