@@ -91,10 +91,6 @@ For more, check out my GitHub repositories!
 ---
 -->
 ### 📈 GitHub Stats ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwiseweb-works%2Fwiseweb-works&label=VISITORS&labelColor=%234c4c6d&countColor=%231b9c85&style=flat&labelStyle=upper)
-<p>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wiseweb-works&theme=dark" alt="wiseweb-works" />
-</p>
-
 <!--
 ---
 
