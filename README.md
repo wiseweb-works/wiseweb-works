@@ -21,25 +21,27 @@ I'm a **Fullstack Developer**, **Web Designer**, and **Security Enthusiast** pas
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=flat)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![React Bootstrap](https://img.shields.io/badge/-React%20Bootstrap-563D7C?logo=react-bootstrap&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=flat)
+<!-- WIP
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 
-<!--
-#### Backend (WIP)
+#### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
--->
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![REST API](https://img.shields.io/badge/-REST%20API-42A5F5?logo=rest-api&logoColor=white&style=flat)
 
-#### CMS
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-
-<!--
-#### Database (WIP)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+#### Database
+![SQL](https://img.shields.io/badge/-SQL-00758F?logo=sql&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat)
 -->
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
@@ -49,10 +51,18 @@ I'm a **Fullstack Developer**, **Web Designer**, and **Security Enthusiast** pas
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?logo=nginx&logoColor=white&style=flat)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat)
-
+<!-- WIP
+#### Testing & Methodologies
+![Jest](https://img.shields.io/badge/-Jest-15c213?logo=jest&logoColor=white&style=flat)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)
+![Waterfall Methodologies](https://img.shields.io/badge/-Waterfall%20Methodologies-5F6368?logo=uml&logoColor=white&style=flat)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+-->
 #### Design & Other Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat)
+![PNPM](https://img.shields.io/badge/-PNPM-8A4FE3?logo=pnpm&logoColor=white&style=flat)
 
 ---
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="400px" height="275px" />
