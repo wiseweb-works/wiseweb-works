@@ -20,6 +20,7 @@ I'm a **Fullstack Developer**, **Web Designer**, and **Security Enthusiast** pas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=black&style=flat)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=flat)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white&style=flat)
@@ -28,9 +29,9 @@ I'm a **Fullstack Developer**, **Web Designer**, and **Security Enthusiast** pas
 ![React Bootstrap](https://img.shields.io/badge/-React%20Bootstrap-563D7C?logo=react-bootstrap&logoColor=white&style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=flat)
-<!-- WIP
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 
+<!-- WIP
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
@@ -51,13 +52,13 @@ I'm a **Fullstack Developer**, **Web Designer**, and **Security Enthusiast** pas
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?logo=nginx&logoColor=white&style=flat)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat)
-<!-- WIP
+
 #### Testing & Methodologies
 ![Jest](https://img.shields.io/badge/-Jest-15c213?logo=jest&logoColor=white&style=flat)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)
 ![Waterfall Methodologies](https://img.shields.io/badge/-Waterfall%20Methodologies-5F6368?logo=uml&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
--->
+
 #### Design & Other Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat)
