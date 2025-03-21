@@ -96,39 +96,29 @@ Here are some of my active contributions to the open-source community:
 4. [**Simple-X Chat**](https://simplex.chat/): Secure, decentralized messaging platform.
 5. [**MicroG**](https://microg.org/): Free implementation of Google’s proprietary Android user space apps.
 
-<!--
-### 👥 Member of the following organizations: (WIP)
+
+### 👥 Member of the following organizations:
 
 [**Code Edu**](https://github.com/Code-Edu):
 **Mission**: We aim to build a community where individuals can collaborate, learn from each other, and innovate through coding. We believe in the power of shared knowledge, and through our projects, we encourage exploration, experimentation, and practical learning.
 
-[**Guvendekal (be Safe)**](https://github.com/Guvendekal):
-**About**: **Guvendekal** is a project focused on helping individuals protect their privacy, security, and data while navigating the internet. The project's goal is to enhance users' online safety and confidentiality, similar to initiatives like **DuckDuckGo** (search engine focused on privacy), **Signal** (secure messaging app), and **Tor** (anonymity-focused browsing tool). **Guvendekal** promotes privacy-first digital habits, offering practical advice and tools to safeguard online information.
-
 [**Wise Web Works**](https://github.com/WiseWebWorks):
 **About**: **Wise Web Works** is my own initiative, a platform that focuses on developing innovative web solutions and contributing to open-source projects. We create efficient, scalable, and user-friendly web applications, with a focus on community-driven learning and collaboration.
--->
+
+[**Guvendekal (be Safe)**](https://github.com/Guvendekal):
+**About**: **Guvendekal** is a project focused on helping individuals protect their privacy, security, and data while navigating the internet. The project's goal is to enhance users' online safety and confidentiality, similar to initiatives like **DuckDuckGo** (search engine focused on privacy), **Signal** (secure messaging app), and **Tor** (anonymity-focused browsing tool). **Guvendekal** promotes privacy-first digital habits, offering practical advice and tools to safeguard online information.
 
 For more, check out my GitHub repositories!
 
 ---
 
-<!--
-### 🧅 My Tor Relay Stats:
-| IPv4 | Nickname | ORPort | Country | Bandwidth |
-|:---:|:---:|:---:|:---:|:---:|
-[130.162.220.192](https://metrics.torproject.org/rs.html#search/130.162.220.192) | [wisewebworks](https://metrics.torproject.org/rs.html#search/wisewebworks)| 9001 | ![US](https://metrics.torproject.org/images/cc/us.png) | 30 MiB/s |
+### 📈 GitHub Stats
 
----
--->
-
-### 📈 GitHub Stats ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwiseweb-works%2Fwiseweb-works&label=VISITORS&labelColor=%234c4c6d&countColor=%231b9c85&style=flat&labelStyle=upper)
-
-## <!--
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwiseweb-works%2Fwiseweb-works&label=VISITORS&labelColor=%234c4c6d&countColor=%231b9c85&style=flat&labelStyle=upper)
 
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wisewebworks/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/wisewebworks)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://wiseweb-works.github.io/blog/)
--->
+
