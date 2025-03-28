@@ -1,4 +1,4 @@
-### Hi there, I'm Abdullah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I'm Fullstack Developer based in Frankfurt, Germany 🇩🇪 </a> 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwiseweb-works%2Fwiseweb-works&label=VISITORS&labelColor=%234c4c6d&countColor=%231b9c85&style=flat&labelStyle=upper)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wisewebworks/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://portfolio.abdullahkoyuncu.de)
@@ -10,7 +10,13 @@
 - 💬 Backend with Node.js, Express and MongoDB.
 - 📫 In this context, I am eager to continuously learn, explore new technologies and contribute to the community in teamwork.
 
-You can contact me to get in touch at [wisewebworks@outlook.com](mailto:wisewebworks@outlook.com) (GPG Key: [5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B](https://keys.openpgp.org/search?q=wisewebworks%40outlook.com))
+You can contact me to get in touch at:
+
+| Email | Use case | PGP | PGP | PGP | S/MIME |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [abdullahkoyuncu@web.de](mailto:abdullahkoyuncu@web.de) | Business & Personal | [Keyserver OpenPGP](https://keys.openpgp.org/search?q=65DD4432E1B063A0466693FBB295F6FA5B5AC23C) | [Keyserver Ubuntu](https://keyserver.ubuntu.com/pks/lookup?search=65DD4432E1B063A0466693FBB295F6FA5B5AC23C&fingerprint=on&hash=on&exact=on&op=index)  | [Keyserver PGPKeys](https://pgpkeys.eu/pks/lookup?search=65DD4432E1B063A0466693FBB295F6FA5B5AC23C&fingerprint=on&hash=on&exact=on&op=index) |   |
+| [wisewebworks@outlook.com](mailto:wisewebworks@outlook.com) | Organizational  | [Keyserver OpenPGP](https://keys.openpgp.org/search?q=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B) | [Keyserver Ubuntu](https://keyserver.ubuntu.com/pks/lookup?search=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B&fingerprint=on&hash=on&exact=on&op=index)  | [Keyserver PGPKeys](https://pgpkeys.eu/pks/lookup?search=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B&fingerprint=on&hash=on&exact=on&op=index) | [KeyServer Kuix](https://kuix.de/smime-keyserver/get.php?email=wisewebworks@outlook.com&format=view) |
+
 
 ---
 
@@ -87,4 +93,10 @@ For more, check out my GitHub repositories!
 ---
 
 ### 📈 GitHub Stats
-<img src="https://raw.githubusercontent.com/wiseweb-works/wiseweb-works/refs/heads/output/profile-3d-contrib/profile-night-green.svg" width="100%">
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=wiseweb-works&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=wiseweb-works&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=wiseweb-works&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=4"></td></tr></tbody></table>
+
