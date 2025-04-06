@@ -14,7 +14,7 @@ You can contact me to get in touch at:
 
 | Email | Use case | PGP | PGP | PGP | S/MIME |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [abdullahkoyuncu@web.de](mailto:abdullahkoyuncu@web.de) | Business & Personal | [Keyserver OpenPGP](https://keys.openpgp.org/search?q=65DD4432E1B063A0466693FBB295F6FA5B5AC23C) | [Keyserver Ubuntu](https://keyserver.ubuntu.com/pks/lookup?search=65DD4432E1B063A0466693FBB295F6FA5B5AC23C&fingerprint=on&hash=on&exact=on&op=index)  | [Keyserver PGPKeys](https://pgpkeys.eu/pks/lookup?search=65DD4432E1B063A0466693FBB295F6FA5B5AC23C&fingerprint=on&hash=on&exact=on&op=index) |   |
+| [abdullahkoyuncu@web.de](mailto:abdullahkoyuncu@web.de) | Business & Personal | [Keyserver OpenPGP](https://keys.openpgp.org/search?q=65DD4432E1B063A0466693FBB295F6FA5B5AC23C) | [Keyserver Ubuntu](https://keyserver.ubuntu.com/pks/lookup?search=65DD4432E1B063A0466693FBB295F6FA5B5AC23C&fingerprint=on&hash=on&exact=on&op=index)  | [Keyserver PGPKeys](https://pgpkeys.eu/pks/lookup?search=65DD4432E1B063A0466693FBB295F6FA5B5AC23C&fingerprint=on&hash=on&exact=on&op=index) | [KeyServer Kuix](https://kuix.de/smime-keyserver/get.php?email=abdullahkoyuncu@web.de&format=view) |
 | [wisewebworks@outlook.com](mailto:wisewebworks@outlook.com) | Organizational  | [Keyserver OpenPGP](https://keys.openpgp.org/search?q=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B) | [Keyserver Ubuntu](https://keyserver.ubuntu.com/pks/lookup?search=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B&fingerprint=on&hash=on&exact=on&op=index)  | [Keyserver PGPKeys](https://pgpkeys.eu/pks/lookup?search=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B&fingerprint=on&hash=on&exact=on&op=index) | [KeyServer Kuix](https://kuix.de/smime-keyserver/get.php?email=wisewebworks@outlook.com&format=view) |
 
 
