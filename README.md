@@ -1,22 +1,25 @@
-### I'm Fullstack Developer based in Frankfurt, Germany 🇩🇪 </a> 
+### I'm Fullstack Developer based in Frankfurt, Germany 🇩🇪 </a>
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwiseweb-works%2Fwiseweb-works&label=VISITORS&labelColor=%234c4c6d&countColor=%231b9c85&style=flat&labelStyle=upper)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wisewebworks/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://portfolio.abdullahkoyuncu.de)
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://portfolio.abdullahkoyuncu.de) -->
 
 ### Glad to see you here! &nbsp;
 
 👨‍💻 I develop scalable and high-performance applications using modern web technologies a.k.a MERN Stack.
+
 - 🌱 Frontend with Next.js, React and TypeScript;
 - 💬 Backend with Node.js, Express and MongoDB.
 - 📫 In this context, I am eager to continuously learn, explore new technologies and contribute to the community in teamwork.
+- 💼 You can find me of the following organizations: [**Code Edu**](https://github.com/Code-Edu), [**Wise Web Works**](https://github.com/WiseWebWorks), [**Guvendekal (be Safe)**](https://github.com/Guvendekal)
 
 You can contact me to get in touch at:
 
-| Email | Use case | PGP | PGP | PGP | S/MIME |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [abdullahkoyuncu@web.de](mailto:abdullahkoyuncu@web.de) | Business & Personal | [Keyserver OpenPGP](https://keys.openpgp.org/search?q=65DD4432E1B063A0466693FBB295F6FA5B5AC23C) | [Keyserver Ubuntu](https://keyserver.ubuntu.com/pks/lookup?search=65DD4432E1B063A0466693FBB295F6FA5B5AC23C&fingerprint=on&hash=on&exact=on&op=index)  | [Keyserver PGPKeys](https://pgpkeys.eu/pks/lookup?search=65DD4432E1B063A0466693FBB295F6FA5B5AC23C&fingerprint=on&hash=on&exact=on&op=index) | [KeyServer Kuix](https://kuix.de/smime-keyserver/get.php?email=abdullahkoyuncu@web.de&format=view) |
-| [wisewebworks@outlook.com](mailto:wisewebworks@outlook.com) | Organizational  | [Keyserver OpenPGP](https://keys.openpgp.org/search?q=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B) | [Keyserver Ubuntu](https://keyserver.ubuntu.com/pks/lookup?search=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B&fingerprint=on&hash=on&exact=on&op=index)  | [Keyserver PGPKeys](https://pgpkeys.eu/pks/lookup?search=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B&fingerprint=on&hash=on&exact=on&op=index) | [KeyServer Kuix](https://kuix.de/smime-keyserver/get.php?email=wisewebworks@outlook.com&format=view) |
-
+|                            Email                            |      Use case       |                                               PGP                                               |                                                                         PGP                                                                          |                                                                     PGP                                                                     |                                                S/MIME                                                |
+| :---------------------------------------------------------: | :-----------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+|   [abdullahkoyuncu@web.de](mailto:abdullahkoyuncu@web.de)   | Business & Personal | [Keyserver OpenPGP](https://keys.openpgp.org/search?q=65DD4432E1B063A0466693FBB295F6FA5B5AC23C) | [Keyserver Ubuntu](https://keyserver.ubuntu.com/pks/lookup?search=65DD4432E1B063A0466693FBB295F6FA5B5AC23C&fingerprint=on&hash=on&exact=on&op=index) | [Keyserver PGPKeys](https://pgpkeys.eu/pks/lookup?search=65DD4432E1B063A0466693FBB295F6FA5B5AC23C&fingerprint=on&hash=on&exact=on&op=index) |  [KeyServer Kuix](https://kuix.de/smime-keyserver/get.php?email=abdullahkoyuncu@web.de&format=view)  |
+| [wisewebworks@outlook.com](mailto:wisewebworks@outlook.com) |   Organizational    | [Keyserver OpenPGP](https://keys.openpgp.org/search?q=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B) | [Keyserver Ubuntu](https://keyserver.ubuntu.com/pks/lookup?search=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B&fingerprint=on&hash=on&exact=on&op=index) | [Keyserver PGPKeys](https://pgpkeys.eu/pks/lookup?search=5CEF6FC80AD54B8DEA92DB3F609B19B78384AA1B&fingerprint=on&hash=on&exact=on&op=index) | [KeyServer Kuix](https://kuix.de/smime-keyserver/get.php?email=wisewebworks@outlook.com&format=view) |
 
 ---
 
@@ -99,34 +102,61 @@ You can contact me to get in touch at:
   </tr>
 </table>
 
-
 ---
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="400px" height="275px" />
-
-### 🚀 Contributions
-
-Here are some of my active contributions to the open-source community:
-
-1. [**RSStT Bot**](https://github.com/Rongronggg9/RSS-to-Telegram-Bot): Automates RSS feed updates on Telegram.
-2. [**Monal**](https://github.com/monal-im/Monal): Open-source instant messaging application with privacy focus.
-3. [**Archinstall**](https://github.com/archlinux/archinstall): Simplifying Arch Linux installations.
-4. [**Simple-X Chat**](https://simplex.chat/): Secure, decentralized messaging platform.
-5. [**MicroG**](https://microg.org/): Free implementation of Google’s proprietary Android user space apps.
-
-
-### 👥 Member of the following organizations:
-
-[**Code Edu**](https://github.com/Code-Edu):
-**Mission**: We aim to build a community where individuals can collaborate, learn from each other, and innovate through coding. We believe in the power of shared knowledge, and through our projects, we encourage exploration, experimentation, and practical learning.
-
-[**Wise Web Works**](https://github.com/WiseWebWorks):
-**About**: **Wise Web Works** is my own initiative, a platform that focuses on developing innovative web solutions and contributing to open-source projects. We create efficient, scalable, and user-friendly web applications, with a focus on community-driven learning and collaboration.
-
-[**Guvendekal (be Safe)**](https://github.com/Guvendekal):
-**About**: **Guvendekal** is a project focused on helping individuals protect their privacy, security, and data while navigating the internet. The project's goal is to enhance users' online safety and confidentiality, similar to initiatives like **DuckDuckGo** (search engine focused on privacy), **Signal** (secure messaging app), and **Tor** (anonymity-focused browsing tool). **Guvendekal** promotes privacy-first digital habits, offering practical advice and tools to safeguard online information.
+### 🚀 My Projects
 
 For more, check out my GitHub repositories!
+
+|                Type                |                                         Project Name                                         |                                                  Tech Stack                                                  |                                                   Project Preview                                                   |
+| :--------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+|       Fullstack<sup>1</sup>        |         [Employee Shift Management App](https://shift-manager-frontend.vercel.app/)          |        React19, Javascript, Tailwind CSS, ScheduleX Calendar, Recharts, JWT Token, Bcrypt, Moment.js         | ![](https://github.com/wiseweb-works/mern-employee-shift-manager/blob/master/images/DashboardViewMode.png?raw=true) |
+|       Fullstack<sup>1</sup>        |         [Mern Bookstore E-Commerce](https://github.com/wiseweb-works/mern-bookstore)         |         React19, Typescript, Tailwind CSS, Redux, Firebase, Sweetalert2, Chartjs, JWT Token, Bcrypt          |         ![](https://github.com/wiseweb-works/mern-bookstore/raw/master/images/project-preview.png?raw=true)         |
+| Fullstack<sup>1</sup> <sup>1</sup> |                    [Collabtask Hub](https://mern-collabtask.vercel.app/)                     |                React19, Typescript, Tailwind CSS, React-Hot-Toast JWT Token, Bcrypt, ExcelJS                 |     ![](https://github.com/wiseweb-works/mern-collabtask-hub/raw/master/images/admin_manage_tasks.png?raw=true)     |
+|   Frontend with SSR<sup>2</sup>    |             [Netflix Clone with Nextjs](https://nextjs-ssr-nextflix.vercel.app/)             |    React19, Next.js, Javascript, Firebase, Headless.UI, Cypress (testing), Tailwind CSS , React Toastify     |          ![](https://github.com/wiseweb-works/nextjs-ssr-nextflix/raw/master/project_preview.png?raw=true)          |
+|   Frontend with SSG<sup>3</sup>    |                     [Monal App Clone](https://nextjs-monal.vercel.app/)                      | React19, Next.js, Typescript, Fontawesome, Headless.UI, React-Markdown, Remark-GFM, Rehype-RAW, Tailwind CSS |             ![](https://github.com/wiseweb-works/nextjs-monal/raw/master/project_preview.png?raw=true)              |
+|              Frontend              |             [Developer Portfolio Example](https://portfolio.abdullahkoyuncu.de/)             |                 React19, Next.js, Typescript, MarkdownX, Radix.UI, Zod, Sonner, Tailwind CSS                 |                                        ![](https://i.imgur.com/MDqJyQc.png)                                         |
+|   Frontend with SSG<sup>4</sup>    |              [Multi-Language Blog Page](https://wiseweb-works.github.io/blog/)               |                                      Hugo, Markdown, JS, CSS3, PaperMod                                      |         ![](https://github.com/wiseweb-works/blog/raw/master/static/images/webpage-screenshot.png?raw=true)         |
+|              Frontend              |        [Tech Market](https://wiseweb-works.github.io/shopping-site-vite-vanilla-js/)         |                         Pure JS, Vite, SCSS/SASS, Bootstrap, Fontawesome , Rest API                          | ![](https://github.com/wiseweb-works/shopping-site-vite-vanilla-js/raw/master/public/project-preview.png?raw=true)  |
+|              Frontend              |                 [Stock Management](https://react-mui-stock-app.vercel.app/)                  | React19, Javascript, Redux, Styled Component, Material UI, Formik, Yup, React Toastify, Recharts , Rest API  |      ![](https://github.com/wiseweb-works/react-mui-stock-app/raw/master/public/project_preview.jpg?raw=true)       |
+|              Frontend              |                      [Blogify](https://react-blog-app-tsc.vercel.app/)                       |           React19, Typescript, Material UI, Tanstack Query, Formik, Yup, React Toastify, Rest API            |               ![](https://github.com/wiseweb-works/portfolio/blob/master/public/blogapp.jpg?raw=true)               |
+|              Frontend              |                       [Todo-App](https://vite-ts-todo-app.vercel.app/)                       |               React19, Typescript, Tanstack (a.k.a React) Qeury, Material UI, Axios , Rest API               |           ![](https://github.com/wiseweb-works/vite-ts-todo-app/raw/master/project_preview.png?raw=true)            |
+|              Frontend              |               [Shopping App](https://react-redux-shopping-app-one.vercel.app/)               |                 React19, Javascript, Styled Component, Material UI, Axios, Redux , Rest API                  |    ![](https://github.com/wiseweb-works/react-redux-shopping-app/raw/master/public/project_preview.png?raw=true)    |
+|              Frontend              |        [Tutorial Workflow](https://wiseweb-works.github.io/react-axios-api-tutorial/)        |                               React19, Javascript, Bootstrap, Axios, Rest API                                |                                        ![](https://i.imgur.com/8ZYpq8B.png)                                         |
+|              Frontend              |      [Doctolib Clone](https://wiseweb-works.github.io/react-hospital-appointment-app/)       |                                React19, Javascript, React Icons, Simple UUID                                 |                                        ![](https://i.imgur.com/AtzZPBV.jpeg)                                        |
+|              Frontend              |     [Footbal Cards for Legends](https://wiseweb-works.github.io/react-football-legends/)     |                                     React19, Javascript, React Bootstrap                                     |                                        ![](https://i.imgur.com/nXqdawr.jpeg)                                        |
+|              Frontend              |   [Interactive Photo-Folio](https://wiseweb-works.github.io/react-image-lightbox-gallery/)   |                                          React19, Javascript, CSS3                                           |                                        ![](https://i.imgur.com/rX88P6X.jpeg)                                        |
+|              Frontend              |       [Personal Expense Tracker](https://wiseweb-works.github.io/wallet-tracker-app/)        |                                             Pure JS, HTML5, CSS3                                             |        ![](https://github.com/wiseweb-works/wallet-tracker-app/raw/master/img/project-preview.png?raw=true)         |
+|              Frontend              |      [Bruce Wayne Corp Website](https://wiseweb-works.github.io/bruce-tech-bootstrap/)       |                                    Pure JS, Bootstrap, Fontawesome, CSS3                                     |      ![](https://github.com/wiseweb-works/bruce-tech-bootstrap/raw/master/img/project%20preview.png?raw=true)       |
+|              Frontend              |          [FurniSpace Webpage](https://wiseweb-works.github.io/furnispace-website/)           |                                           HTML5, CSS3, Fontawesome                                           |       ![](https://github.com/wiseweb-works/furnispace-website/raw/master/img/project%20preview.png?raw=true)        |
+|              Frontend              |      [Software Firm Login Page](https://wiseweb-works.github.io/bootstrap-login-page/)       |                                            HTML5, CSS3, Bootstrap                                            |     ![](https://github.com/wiseweb-works/bootstrap-login-page/raw/master/images/project%20preview.png?raw=true)     |
+|              Frontend              |      [Camp Essentials Markt](https://wiseweb-works.github.io/bootstrap-products-page/)       |                                            HTML5, CSS3, Bootstrap                                            |     ![](https://github.com/wiseweb-works/bootstrap-products-page/raw/master/img/project%20preview.png?raw=true)     |
+|              Frontend              |      [Cooperate Firm Webpage](https://wiseweb-works.github.io/bootstrap-start-project/)      |                                       Pure JS, HTML5, Bootstrap, CSS3                                        |     ![](https://github.com/wiseweb-works/bootstrap-start-project/raw/master/img/project%20preview.png?raw=true)     |
+|              Frontend              |         [Stunning Cafe Page](https://wiseweb-works.github.io/bruce-cafe-bootstrap/)          |                                            HTML5, Bootstrap, CSS3                                            |      ![](https://github.com/wiseweb-works/bruce-cafe-bootstrap/raw/master/img/project%20preview.png?raw=true)       |
+|              Frontend              |           [Parallax Effect](https://wiseweb-works.github.io/parallax-web-design/)            |                                                 HTML5, CSS3                                                  |       ![](https://github.com/wiseweb-works/parallax-web-design/raw/master/img/project%20preview.png?raw=true)       |
+|              Frontend              |       [Nextgen Portfolio](https://wiseweb-works.github.io/css-with-flexbox-portfolio/)       |                                                 HTML5, CSS3                                                  |   ![](https://github.com/wiseweb-works/css-with-flexbox-portfolio/raw/master/img/project%20preview.png?raw=true)    |
+|              Frontend              |         [Newspapers Time](https://wiseweb-works.github.io/grid-based-news-website/)          |                                                 HTML5, CSS3                                                  |     ![](https://github.com/wiseweb-works/grid-based-news-website/raw/master/img/project%20preview.png?raw=true)     |
+|              Frontend              |     [Newspaper Grid Desing](https://wiseweb-works.github.io/testimonials-grid-section/)      |                                                 HTML5, CSS3                                                  |   ![](https://github.com/wiseweb-works/testimonials-grid-section/raw/master/images/project-preview.png?raw=true)    |
+|              Frontend              |          [Recipe Showcase](https://wiseweb-works.github.io/recipe-page-challenge/)           |                                                 HTML5, CSS3                                                  |    ![](https://github.com/wiseweb-works/recipe-page-challenge/raw/master/images/project%20preview.png?raw=true)     |
+|              Frontend              | [Product Preview Component](https://wiseweb-works.github.io/product-preview-card-component/) |                                                 HTML5, CSS3                                                  | ![](https://github.com/wiseweb-works/product-preview-card-component/raw/master/images/project-preview.png?raw=true) |
+|              Frontend              |    [Colorful Card Components](https://wiseweb-works.github.io/four-card-feature-section/)    |                                                 HTML5, CSS3                                                  |  ![](https://github.com/wiseweb-works/four-card-feature-section/raw/master/images/project%20preview.png?raw=true)   |
+|              Frontend              |       [Short Links Template](https://wiseweb-works.github.io/social-links-component/)        |                                                 HTML5, CSS3                                                  |    ![](https://github.com/wiseweb-works/social-links-component/raw/master/images/project%20preview.png?raw=true)    |
+|              Frontend              |    [Blog Detail Component](https://wiseweb-works.github.io/blog-preview-card-component/)     |                                                 HTML5, CSS3                                                  | ![](https://github.com/wiseweb-works/blog-preview-card-component/raw/master/images/project%20preview.png?raw=true)  |
+|              Frontend              |                                [Reusable QR Component](link)                                 |                                                 HTML5, CSS3                                                  |      ![](https://github.com/wiseweb-works/qr-code-component/raw/master/images/project%20preview.png?raw=true)       |
+
+<!-- | Frontend | [](link) | Tech-Stack | ![](foto) | -->
+
+## Definitions:
+
+`*1` **Fullstack:** Frontend + Backend are designed to work with each other.
+
+`*2` **Frontend with SSR:** Frontend Application with Nextjs `Server-Side Rendering` function.
+
+`*3` **Frontend with SSG:** Frontend Application with Nextjs `Static-Page Generation` function.
+
+`*4` **Frontend with SSG:** Frontend Application with Hugo's `Static-Page Generation` function.
+
+<!-- `*` **A** -->
 
 ---
 
@@ -137,4 +167,3 @@ For more, check out my GitHub repositories!
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=wiseweb-works&theme=dark"></td><td width="50%" align="center">
 <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=wiseweb-works&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=4"></td></tr></tbody></table>
-
