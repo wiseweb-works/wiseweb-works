@@ -18,10 +18,9 @@ What I work with:
 
 - 🛠️ Backend – Node.js, Express.js, MongoDB
 
--  🔐 Auth, API security, and performance optimization are my bread and butter.
+- 🔐 Auth, API security, and performance optimization are my bread and butter.
 
 I'm also active in teams and communities like [**Code Edu**](https://github.com/Code-Edu), [**Wise Web Works**](https://github.com/WiseWebWorks) and [**Guvendekal (be Safe)**](https://github.com/Guvendekal)
-
 
 You can contact me to get in touch at:
 
@@ -119,7 +118,7 @@ For more, check out my GitHub repositories!
 
 |             Type              |                                         Project Name                                         |                                                  Tech Stack                                                  |                                                   Project Preview                                                   |
 | :---------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|     Fullstack<sup>1</sup>  |         [Employee Shift Management App](https://shift-manager-frontend.vercel.app/)          |        React19, Javascript, Tailwind CSS, ScheduleX Calendar, Recharts, JWT Token, Bcrypt, Moment.js         | ![](https://github.com/wiseweb-works/mern-employee-shift-manager/blob/master/images/DashboardViewMode.png?raw=true) |
+|     Fullstack<sup>1</sup>     |         [Employee Shift Management App](https://shift-manager-frontend.vercel.app/)          |        React19, Javascript, Tailwind CSS, ScheduleX Calendar, Recharts, JWT Token, Bcrypt, Moment.js         | ![](https://github.com/wiseweb-works/mern-employee-shift-manager/blob/master/images/DashboardViewMode.png?raw=true) |
 |     Fullstack<sup>1</sup>     |         [Mern Bookstore E-Commerce](https://github.com/wiseweb-works/mern-bookstore)         |         React19, Typescript, Tailwind CSS, Redux, Firebase, Sweetalert2, Chartjs, JWT Token, Bcrypt          |         ![](https://github.com/wiseweb-works/mern-bookstore/raw/master/images/project-preview.png?raw=true)         |
 |     Fullstack<sup>1</sup>     |                    [Collabtask Hub](https://mern-collabtask.vercel.app/)                     |                React19, Typescript, Tailwind CSS, React-Hot-Toast JWT Token, Bcrypt, ExcelJS                 |     ![](https://github.com/wiseweb-works/mern-collabtask-hub/raw/master/images/admin_manage_tasks.png?raw=true)     |
 | Frontend with SSR<sup>2</sup> |             [Netflix Clone with Nextjs](https://nextjs-ssr-nextflix.vercel.app/)             |    React19, Next.js, Javascript, Firebase, Headless.UI, Cypress (testing), Tailwind CSS , React Toastify     |          ![](https://github.com/wiseweb-works/nextjs-ssr-nextflix/raw/master/project_preview.png?raw=true)          |
@@ -159,11 +158,11 @@ For more, check out my GitHub repositories!
 
 `*1` **Fullstack:** Frontend + Backend are designed to work with each other.
 
-`*2` **Frontend with SSR:** Frontend Application with Nextjs `Server-Side Rendering` function.
+`*2` **Frontend with SSR:** Frontend Application was developed using Nextjs `Server-Side Rendering` functionality.
 
-`*3` **Frontend with SSG:** Frontend Application with Nextjs `Static-Page Generation` function.
+`*3` **Frontend with SSG:** Frontend Application was developed using Nextjs `Static-Page Generation` functionality.
 
-`*4` **Frontend with SSG:** Frontend Application with Hugo's `Static-Page Generation` function.
+`*4` **Frontend with SSG:** Frontend Application was developed using Hugo's `Static-Page Generation` functionality.
 
 <!-- `*` **A** -->
 
