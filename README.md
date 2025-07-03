@@ -121,10 +121,11 @@ You can contact me to get in touch at:
 
 For more, check out my GitHub repositories!
 
-![Count](https://img.shields.io/badge/Total%20Projects-35-blue?style=for-the-badge&logo=github)
+![Count](https://img.shields.io/badge/Total%20Projects-36-blue?style=for-the-badge&logo=github)
 
 |  #  |             Type              |                                         Project Name                                         |                                                     Tech Stack                                                     |                                                   Project Preview                                                   |
 | :-: | :---------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| 36  |     Fullstack<sup>G</sup>     |                     [Split Smart](https://split-smart-eight.vercel.app/)                     |     Next.js, Typescript, Convex, Clerk, Tailwind CSS, RadixUI, Zod, Recharts, Resend, Ingest, Reach Hook Form      |            ![](https://github.com/codEdu-Collective/split-smart/blob/main/images/homepage.png?raw=true)             |
 | 35  |     Fullstack<sup>0</sup>     |                 [News Media Agency](https://nextjs-media-agency.vercel.app/)                 |         Next.js, Javascript, Prisma ORM, Zodv4, Headless.UI, Heroicons, Tailwind CSS, Bcrypt, Jose, Eslint         |          ![](https://github.com/wiseweb-works/nextjs-media-agency/raw/master/images/Homepage.png?raw=true)          |
 | 34  |     Fullstack<sup>1</sup>     |                     [Reise24 Travel Agency](https://reise24.vercel.app/)                     | React-Routerv7, Typescript, Gemini Generative AI, Sentry, Syncfusion, Appwrite, Stripe, Tailwind CSS, DayJS, isbot |                ![](https://github.com/wiseweb-works/reise24/raw/master/images/homepage.png?raw=true)                |
 | 33  |     Fullstack<sup>2</sup>     |         [Employee Shift Management App](https://shift-manager-frontend.vercel.app/)          |           React19, Javascript, Tailwind CSS, ScheduleX Calendar, Recharts, JWT Token, Bcrypt, Moment.js            | ![](https://github.com/wiseweb-works/mern-employee-shift-manager/blob/master/images/DashboardViewMode.png?raw=true) |
@@ -165,6 +166,8 @@ For more, check out my GitHub repositories!
 <!-- | Number | Frontend | [](link) | Tech-Stack | ![](foto) | -->
 
 ## Definitions:
+
+`*G` **Group:** It was developed as a group project using Agile methodology and tracked through Jira.
 
 `*0` **Fullstack:** Fullstack Application was developed using Nextjs `Server-Actions` functionality — without need a separate backend server.
 
